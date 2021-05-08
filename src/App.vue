@@ -1,7 +1,9 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
-  <el-button>Default</el-button>
+  <div>
+    <img alt="Vue logo" src="./assets/logo.png" />
+    <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
+    <el-button>Default</el-button>
+  </div>
 </template>
 
 <script lang="ts">
