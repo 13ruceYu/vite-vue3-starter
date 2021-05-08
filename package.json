@@ -1,7 +1,7 @@
 {
   "name": "vite-vue3-starter",
   "version": "0.0.0",
-  "homepage": "https://13ruceYu.github.io/github-actions-demo",
+  "homepage": "https://13ruceYu.github.io/vite-vue3-starter",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
