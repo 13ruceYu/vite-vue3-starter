@@ -4,12 +4,7 @@
 
 <script>
 export default {
-  name: 'Home',
-  components: {},
-  data() {
-    return {}
-  },
-  methods: {}
+  name: 'Home'
 }
 </script>
 
